@@ -10,7 +10,7 @@ st.title("MackenzieWeek_primeira_aula")
 st.header("BENTÃO")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("É nois")
+st.subheader("É nois!")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Aprendemos a mecher melhor no github e a programar nele!")
